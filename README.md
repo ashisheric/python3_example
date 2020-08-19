@@ -1,7 +1,8 @@
 # python3_example
 # python example
-`python OOPs class concept`
-`python OOPS inheritance concept`
+`python OOP class concept`
+`python OOP inheritance concept`
 `python GAMES soduku concept`
-`python OOPS polymorphism concept`
-`python OOPS decorator concept`
+`python OOP polymorphism concept`
+`python OOP decorator concept`
+`python OOP static and class method concept`
