@@ -6,3 +6,5 @@
 `python OOP polymorphism concept`
 `python OOP decorator concept`
 `python OOP static and class method concept`
+`python OOP magicmethod concept`
+`python OOP abstract concept`
