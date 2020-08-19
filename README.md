@@ -8,3 +8,4 @@
 `python OOP static and class method concept`
 `python OOP magicmethod concept`
 `python OOP abstract concept`
+`python OOP super keyword concept`
