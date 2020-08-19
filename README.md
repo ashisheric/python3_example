@@ -4,3 +4,4 @@
 `python OOPS inheritance concept`
 `python GAMES soduku concept`
 `python OOPS polymorphism concept`
+`python OOPS decorator concept`
